@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "686445332373",
+    "project_id": "emotion-90be2",
+    "storage_bucket": "emotion-90be2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686445332373:android:7bba4713d6c4527c8bd89c",
+        "android_client_info": {
+          "package_name": "com.example.emotion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686445332373-jckkoltjtjvnn7t1q5b9jdvag428mhej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3KkHVsC07mmaqyXjy0cfybMzDUFI1RxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686445332373-jckkoltjtjvnn7t1q5b9jdvag428mhej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686445332373:android:c6618c9ab648a1748bd89c",
+        "android_client_info": {
+          "package_name": "com.example.fd_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686445332373-jckkoltjtjvnn7t1q5b9jdvag428mhej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3KkHVsC07mmaqyXjy0cfybMzDUFI1RxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686445332373-jckkoltjtjvnn7t1q5b9jdvag428mhej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
