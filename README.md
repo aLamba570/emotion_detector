@@ -37,4 +37,56 @@
   ### 🌐 Offline Functionality
 - **No Internet Required**: Perform emotion detection without needing an internet connection using built-in models.
 - **Optimized for Performance**: Lightweight and efficient, ensuring smooth operation even on low-end devices.
+
+## Setup Instructions
+
+### 1. Clone the Repository
+
+First, clone the repository from GitHub to your local machine using the following command:
+
+```bash
+git clone https://github.com/alamba570/emotion_detector.git
+```
+
+### 2. Open the Project in Android Studio
+
+1. Open Android Studio.
+2. Click on **File > Open**.
+3. Navigate to the directory where you cloned the repository.
+4. Select the project folder and click **OK**.
+
+### 3. Sync Project with Gradle Files
+
+Once the project is loaded, Android Studio will automatically try to sync the Gradle files. If it doesn't, click on **File > Sync Project with Gradle Files**.
+
+### 4. Set Up Firebase Account
+
+The app uses Firebase for various backend services like authentication, database, and storage. Follow these steps to set up Firebase:
+
+#### a. Create a Firebase Project
+
+1. Go to the [Firebase Console](https://console.firebase.google.com/).
+2. Click on **Add Project**.
+3. Enter a project name and follow the on-screen instructions to set it up.
+
+#### b. Add Firebase to Your Android Project
+
+1. In the Firebase Console, click on **Add App** under the **Android** section.
+2. Register your app by providing the Android package name (`com.yourcompany.yourappname`) which you can find in your `AndroidManifest.xml` file.
+3. Download the `google-services.json` file provided by Firebase.
+
+#### c. Add `google-services.json` to Your Project
+
+1. Copy the `google-services.json` file to the `app/` directory of your project.
+2. Ensure that the file is placed in the root directory of your `app/` module.
+
+## 5. Build and Run the Project
+
+1. Connect your Android device or start an Android emulator.
+2. Click on the **Run** button (or press `Shift + F10`) to build and run the project.
+
+### 6. Test the App
+
+- Upload an image from your gallery or capture a new one to test the emotion detection functionality.
+- Verify that Firebase services (e.g., authentication, database) are working as expected.
   
