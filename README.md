@@ -89,4 +89,24 @@ The app uses Firebase for various backend services like authentication, database
 
 - Upload an image from your gallery or capture a new one to test the emotion detection functionality.
 - Verify that Firebase services (e.g., authentication, database) are working as expected.
-  
+
+## Screenshots
+
+You can include screenshots of the app to demonstrate its features and functionality.
+
+- **Home Screen**: 
+ ![6235545232888415693_121](https://github.com/user-attachments/assets/da2cbe16-1b10-4ae3-b3b6-7de0d6960053)
+
+
+- **Emotion Detection in Action**: 
+  ![6235545232888415694_121](https://github.com/user-attachments/assets/ce902d6b-5109-478b-8673-2becdcf25b30)
+
+
+- **Results Screen**: 
+ ![6235545232888415695_121](https://github.com/user-attachments/assets/d9abee20-add0-4d1d-93ee-9207fabdbe73)
+
+
+## Help and Support
+
+- If you run into any issues, check the [Firebase documentation](https://firebase.google.com/docs) or reach out via the Issues tab on GitHub.
+- For any other questions or feedback, feel free to contact the repository owner.
