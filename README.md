@@ -15,6 +15,8 @@
   - 😐 Neutral
   - 🤢 Disgust
  
+  ![image](https://github.com/user-attachments/assets/4ef6a840-d479-4dcc-a050-00f59498d334)
+
  ### ⏱️ Real-time Emotion Analysis
 - **Instant Results**: Get real-time feedback on emotions as soon as you capture or upload an image.
 - **Visual Indicators**: Display detected emotions directly on the image with easy-to-understand visual indicators.
